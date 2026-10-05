@@ -202,19 +202,23 @@ Foram adicionados diferentes pedidos para testar o funcionamento da fila de pedi
 
 A imagem abaixo demonstra os pedidos armazenados na fila e sua ordem de atendimento.
 
-![Pedidos pendentes](prints/pedido%20pendentes.png)
+<img width="938" height="952" alt="pedido pendentes" src="https://github.com/user-attachments/assets/af9b4e82-5e57-4644-90b9-03995bbcf115" />
+
+
 
 #### Cancelamento de Pedido
 
 A operação de cancelamento remove o pedido mais antigo da fila e adiciona o mesmo ao topo da pilha de pedidos cancelados.
 
-![Pedido cancelado](prints/pedido%20cancelado.png)
+<img width="911" height="968" alt="pedido cancelado" src="https://github.com/user-attachments/assets/7fed7913-899e-4154-b508-35c97bd03756" />
+
 
 #### Restauração de Pedido
 
 O último pedido cancelado pode ser retirado da pilha e inserido novamente na fila de pedidos pendentes.
 
-![Pedido restaurado](prints/pedido%20restaurado.png)
+<img width="911" height="968" alt="pedido cancelado" src="https://github.com/user-attachments/assets/3eebb00b-dd93-4cbf-8a36-b602e345fb90" />
+
 
 ---
 
@@ -226,25 +230,29 @@ Foram adicionadas diferentes músicas para testar o funcionamento da lista dupla
 
 A imagem abaixo demonstra as músicas armazenadas na playlist.
 
-![Playlist](prints/playlist.png)
+<img width="948" height="362" alt="playlist" src="https://github.com/user-attachments/assets/97e3095b-4c8a-49f4-bb29-3c1938027be6" />
+
 
 #### Próxima Música
 
 A navegação para a próxima música utiliza a referência para o próximo nó da lista.
 
-![Próxima música](prints/proxima%20musica.png)
+<img width="948" height="362" alt="playlist" src="https://github.com/user-attachments/assets/bfe58ef6-8197-4980-a0b4-474d74e7a53c" />
+
 
 #### Música Anterior
 
 Também é possível retornar para a música anterior através da referência para o nó anterior.
 
-![Música anterior](prints/musica%20anterior.png)
+<img width="948" height="362" alt="playlist" src="https://github.com/user-attachments/assets/87bff0be-9319-4e9e-9e49-20c70cb8efa2" />
+
 
 #### Ordenação da Playlist
 
 A playlist também pode ser ordenada de acordo com os critérios disponíveis no sistema.
 
-![Playlist ordenada](prints/ordenado.png)
+<img width="947" height="347" alt="ordenado" src="https://github.com/user-attachments/assets/5a3c6acd-80f8-4caa-9a6d-50a623464dee" />
+
 
 ---
 
